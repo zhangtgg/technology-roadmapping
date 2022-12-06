@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afbfe082-3c17-45e2-8133-4849f92a6777" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../../filter/brand-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../filter/brand-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/mapper/AddressMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/mapper/AddressMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/mapper/LoveMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/mapper/LoveMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/AddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/AddressService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/LoveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/LoveService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/impl/AddressServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/impl/AddressServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/impl/LoveServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/impl/LoveServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/java/cn/jerry/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/resources/cn/jerry/mapper/AddressMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/resources/cn/jerry/mapper/AddressMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/resources/cn/jerry/mapper/LoveMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/resources/cn/jerry/mapper/LoveMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lego-online-store/src/main/resources/cn/jerry/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lego-online-store/src/main/resources/cn/jerry/mapper/UserMapper.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2At7JuSRjK2DctGiAxzPb26Xw7p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/MyGit/I-love-you-3-thousand/我爱你，不止三千遍/Java Web/乐高网站购物车实现/document/src/cookie-session/cookie-yes",
+    "project.structure.last.edited": "Facet",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\MyGit\I-love-you-3-thousand\我爱你，不止三千遍\Java Web\乐高网站购物车实现\document\src\cookie-session\cookie-demo\src\main\webapp" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="afbfe082-3c17-45e2-8133-4849f92a6777" name="变更" comment="" />
+      <created>1655816961766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655816961766</updated>
+      <workItem from="1655816963645" duration="6983000" />
+      <workItem from="1656038129162" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
